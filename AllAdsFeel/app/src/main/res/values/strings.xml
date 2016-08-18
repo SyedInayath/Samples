@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AllAds Feel</string>
+    <!-- Add your app id, banner adUnitId and intertitial ad unit id from adMob account -->
+    <string name="app_id">ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx</string>
+    <string name="banner_ad_unit_id">ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx</string>
+    <string name="intertitial_ad_unid_id">ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx</string>
+    <string name="button_name">LaunchAd</string>
+</resources>
